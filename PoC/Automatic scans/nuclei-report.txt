@@ -1,0 +1,10 @@
+[swagger-api] [http] [info] http://127.0.0.1:3000/swagger/index.html [paths="/swagger/index.html"]
+[config-json-exposure-fuzz] [http] [critical] http://127.0.0.1:3000/config.json [path="/config.json"]
+[codeigniter-env] [http] [high] http://127.0.0.1:3000/.env [paths="/.env"]
+[laravel-env] [http] [high] http://127.0.0.1:3000/.env [paths="/.env"]
+[graphql-alias-batching] [http] [info] http://127.0.0.1:3000/graphql
+[graphql-field-suggestion] [http] [info] http://127.0.0.1:3000/graphql
+[graphql-directive-overloading] [http] [info] http://127.0.0.1:3000/graphql
+[missing-sri] [http] [info] http://127.0.0.1:3000 ["https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"]
+[graphql-detect] [http] [info] http://127.0.0.1:3000/graphql [paths="/graphql"]
+[generic-env] [http] [high] http://127.0.0.1:3000/.env [paths="/.env"]

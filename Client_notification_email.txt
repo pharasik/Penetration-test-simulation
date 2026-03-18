@@ -1,0 +1,18 @@
+Dear Mr. Gurin,
+
+I am writing to inform you that, in accordance with the procedures defined in the Statement of Work (SoW), we are notifying you about observations identified during our recent security testing activities.
+
+As agreed in the Statement of Work, all detailed findings, technical information, and supporting materials are provided exclusively via a secure channel. All relevant information has been placed in an encrypted ZIP archive named Secure_Findings_Package.zip, and the password to the archive will be shared with you via a separate communication channel.
+
+Reference to Statement of Work
+In line with the escalation rules defined in the SoW, this notification is provided to ensure timely communication and to allow both parties to jointly determine the appropriate next steps. Depending on the agreed course of action, this may include internal remediation or, if necessary, escalation to a specialized partner supporting remediation or mitigation efforts.
+
+As specified in the SoW, should the identified issue remain unremediated by the client’s decision, our team will continue work according to the agreed schedule and cannot be held responsible for any potential consequences resulting from its existence.
+
+Additionally, if during the course of testing any personal data subject to GDPR regulations or any code not provided by the client is identified, we will immediately inform you to coordinate appropriate actions. Likewise, should any proof-of-concept activities require actions beyond the defined scope of work, we will contact you in advance to discuss and agree on the appropriate approach before proceeding.
+
+We kindly ask for your guidance regarding the preferred next steps. We remain available to provide clarification, answer questions, and support further actions as required.
+
+Kind regards,
+Bogdan Khmelnitskiy
+Senior Penetration Tester

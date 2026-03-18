@@ -1,0 +1,14 @@
+- Nikto v2.1.5/2.1.5
++ Target Host: localhost
++ Target Port: 3000
++ GET /: Cookie connect.sid created without the httponly flag
++ GET /: Server leaks inodes via ETags, header found with file /, fields: 0xW/bd7 0x19ae0dc5692 
++ GET /: The anti-clickjacking X-Frame-Options header is not present.
++ GET /robots.txt: "robots.txt" retrieved but it does not contain any 'disallow' entries (which is odd).
++ GET /WEB-INF/web.xml: /WEB-INF/web.xml: JRUN default file found.
++ -3092: GET /css: /css: This might be interesting...
++ -3092: GET /js: /js: This might be interesting...
++ -3092: GET /web/: /web/: This might be interesting...
++ -3093: GET /.htaccess: /.htaccess: Contains authorization information
++ -3092: GET /.svn/entries: /.svn/entries: Subversion Entries file may contain directory listing information.
++ -3092: GET /.svn/wc.db: /.svn/wc.db: Subversion SQLite DB file may contain directory listing information.
